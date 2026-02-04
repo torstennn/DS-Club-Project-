@@ -1,0 +1,1052 @@
+{
+  "requestMetadata": {
+    "id": "fa5cd855-23f3-42b3-ac4d-289fa44e76bc",
+    "status": "ok",
+    "html": "https://files.hasdata.com/fa5cd855-23f3-42b3-ac4d-289fa44e76bc.html",
+    "json": "https://files.hasdata.com/fa5cd855-23f3-42b3-ac4d-289fa44e76bc.json",
+    "url": "https://www.zillow.com/homes/?searchQueryState=%7B%22pagination%22%3A%7B%7D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22sort%22%3A%7B%22value%22%3A%22days%22%7D%2C%22fr%22%3A%7B%22value%22%3Atrue%7D%2C%22fsba%22%3A%7B%22value%22%3Afalse%7D%2C%22fsbo%22%3A%7B%22value%22%3Afalse%7D%2C%22nc%22%3A%7B%22value%22%3Afalse%7D%2C%22cmsn%22%3A%7B%22value%22%3Afalse%7D%2C%22auc%22%3A%7B%22value%22%3Afalse%7D%2C%22fore%22%3A%7B%22value%22%3Afalse%7D%7D%2C%22isListVisible%22%3Atrue%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A15381%7D%5D%2C%22usersSearchTerm%22%3A%22Isla%20Vista%2C%20CA%22%7D"
+  },
+  "searchInformation": {
+    "totalResults": 141
+  },
+  "properties": [
+    {
+      "id": "2099646767",
+      "url": "https://www.zillow.com/homedetails/1015-El-Embarcadero-Rd-APT-4-Goleta-CA-93117/2099646767_zpid/",
+      "homeType": "APARTMENT",
+      "image": "https://photos.zillowstatic.com/fp/94032fa846be77f4b31381341fea8f43-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 3500,
+      "rentZestimate": 1270,
+      "daysOnZillow": 0,
+      "addressRaw": "1015 El Embarcadero Rd APT 4, Goleta, CA 93117",
+      "address": {
+        "street": "1015 El Embarcadero Rd APT 4",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.41017,
+      "longitude": -119.856445,
+      "beds": 1,
+      "baths": 1,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "34.412964--119.85839",
+      "url": "https://www.zillow.com/apartments/isla-vista-ca/skyview-apartments/CkYTp7/",
+      "image": "https://photos.zillowstatic.com/fp/b93a0cfcb9176421498af4fe7bc1fdc3-p_e.jpg",
+      "status": "FOR_RENT",
+      "addressRaw": "910 Camino Pescadero, Isla Vista, CA",
+      "address": {
+        "street": "910 Camino Pescadero Apt 33",
+        "city": "Isla Vista",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.412964,
+      "longitude": -119.85839,
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "2121714408",
+      "url": "https://www.zillow.com/homedetails/6677-Sueno-Rd-A-Goleta-CA-93117/2121714408_zpid/",
+      "homeType": "APARTMENT",
+      "image": "https://photos.zillowstatic.com/fp/1b759b52a2c1e72b01e68d6bd87faf3d-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 5375,
+      "zestimate": 2855900,
+      "rentZestimate": 4033,
+      "daysOnZillow": 2,
+      "area": 1100,
+      "addressRaw": "6677 Sueno Rd #A, Goleta, CA 93117",
+      "address": {
+        "street": "6677 Sueno Rd #A",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.412376,
+      "longitude": -119.86181,
+      "beds": 3,
+      "baths": 2,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "455118809",
+      "url": "https://www.zillow.com/homedetails/781-Embarcadero-Del-Norte-7-Goleta-CA-93117/455118809_zpid/",
+      "homeType": "APARTMENT",
+      "image": "https://photos.zillowstatic.com/fp/62d576c390bc912506b90a5bd4326c29-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 2895,
+      "rentZestimate": 2224,
+      "daysOnZillow": 3,
+      "area": 600,
+      "addressRaw": "781 Embarcadero Del Norte #7, Goleta, CA 93117",
+      "address": {
+        "street": "781 Embarcadero Del Norte #7",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.41556,
+      "longitude": -119.85584,
+      "beds": 1,
+      "baths": 1,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "34.414486--119.86513",
+      "url": "https://www.zillow.com/apartments/isla-vista-ca/quiet-isla-vista-apartment-complex/5XtNhX/",
+      "image": "https://photos.zillowstatic.com/fp/52fcb2b10488b572341a8250b9c46e99-p_e.jpg",
+      "status": "FOR_RENT",
+      "addressRaw": "6763 Abrego Rd, Goleta, CA",
+      "address": {
+        "street": "6763 Abrego Rd Apt 8",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.414486,
+      "longitude": -119.86513,
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "2080126053",
+      "url": "https://www.zillow.com/homedetails/6696-Trigo-Rd-Goleta-CA-93117/2080126053_zpid/",
+      "homeType": "SINGLE_FAMILY",
+      "image": "https://photos.zillowstatic.com/fp/819508651c4339775401e475bf6a5469-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 4175,
+      "zestimate": 1829300,
+      "rentZestimate": 4451,
+      "daysOnZillow": 6,
+      "addressRaw": "6696 Trigo Rd, Goleta, CA 93117",
+      "address": {
+        "street": "6696 Trigo Rd",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.411198,
+      "longitude": -119.862495,
+      "beds": 2,
+      "baths": 2,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "15913405",
+      "url": "https://www.zillow.com/homedetails/6695-Pasado-Rd-Goleta-CA-93117/15913405_zpid/",
+      "homeType": "APARTMENT",
+      "image": "https://photos.zillowstatic.com/fp/00435f0693bf4f012cc6b87e12edfe0c-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 3600,
+      "rentZestimate": 2864,
+      "daysOnZillow": 6,
+      "addressRaw": "6695 Pasado Rd, Goleta, CA 93117",
+      "address": {
+        "street": "6695 Pasado Rd",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.411415,
+      "longitude": -119.86225,
+      "beds": 2,
+      "baths": 2,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "15913163",
+      "url": "https://www.zillow.com/homedetails/888-Fortuna-Ln-Goleta-CA-93117/15913163_zpid/",
+      "homeType": "SINGLE_FAMILY",
+      "image": "https://photos.zillowstatic.com/fp/119dcb182fa120f96c6191fdd09838f4-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 7050,
+      "zestimate": 1581700,
+      "rentZestimate": 6576,
+      "daysOnZillow": 6,
+      "area": 1705,
+      "addressRaw": "888 Fortuna Ln, Goleta, CA 93117",
+      "address": {
+        "street": "888 Fortuna Ln",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.412872,
+      "longitude": -119.86664,
+      "beds": 5,
+      "baths": 2,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "15913659",
+      "url": "https://www.zillow.com/homedetails/6541-Sabado-Tarde-Rd-Goleta-CA-93117/15913659_zpid/",
+      "homeType": "SINGLE_FAMILY",
+      "image": "https://photos.zillowstatic.com/fp/932512df0fe159992e21538c1b892d00-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 7200,
+      "zestimate": 1293600,
+      "rentZestimate": 6391,
+      "daysOnZillow": 6,
+      "area": 954,
+      "addressRaw": "6541 Sabado Tarde Rd, Goleta, CA 93117",
+      "address": {
+        "street": "6541 Sabado Tarde Rd",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.410217,
+      "longitude": -119.8557,
+      "beds": 3,
+      "baths": 2,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "15913494",
+      "url": "https://www.zillow.com/homedetails/6823-Sabado-Tarde-Rd-Goleta-CA-93117/15913494_zpid/",
+      "homeType": "SINGLE_FAMILY",
+      "image": "https://photos.zillowstatic.com/fp/9c8c2a573c7b82d1c28a01eb24440e29-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 6800,
+      "zestimate": 1496200,
+      "rentZestimate": 6561,
+      "daysOnZillow": 6,
+      "area": 1355,
+      "addressRaw": "6823 Sabado Tarde Rd, Goleta, CA 93117",
+      "address": {
+        "street": "6823 Sabado Tarde Rd",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.410282,
+      "longitude": -119.86706,
+      "beds": 3,
+      "baths": 2,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "34.413296--119.86072",
+      "url": "https://www.zillow.com/b/6647-abrego-rd-goleta-ca-5XqphW/",
+      "image": "https://photos.zillowstatic.com/fp/c1dd325ce1ec9d57d8390e788fdf7e30-p_e.jpg",
+      "status": "FOR_RENT",
+      "addressRaw": "6647 Abrego Rd, Goleta, CA",
+      "address": {
+        "street": "6647 Abrego Rd # C",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.413296,
+      "longitude": -119.86072,
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "15913251",
+      "url": "https://www.zillow.com/homedetails/935-Camino-Pescadero-Goleta-CA-93117/15913251_zpid/",
+      "homeType": "SINGLE_FAMILY",
+      "image": "https://photos.zillowstatic.com/fp/9cebc2dabcb105d12f22e8084f173b5d-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 7000,
+      "zestimate": 1721900,
+      "rentZestimate": 6996,
+      "daysOnZillow": 7,
+      "addressRaw": "935 Camino Pescadero, Goleta, CA 93117",
+      "address": {
+        "street": "935 Camino Pescadero",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.412167,
+      "longitude": -119.858986,
+      "beds": 3,
+      "baths": 2,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "457661133",
+      "url": "https://www.zillow.com/homedetails/6694-Sabado-Tarde-Rd-C-Goleta-CA-93117/457661133_zpid/",
+      "homeType": "APARTMENT",
+      "image": "https://photos.zillowstatic.com/fp/0a54428e100e637afe4cd5b9c6391fda-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 12000,
+      "priceChange": -1000,
+      "priceChangedAt": 1769500800000,
+      "priceChangedAtIso": "2026-01-27T08:00:00.000Z",
+      "daysOnZillow": 7,
+      "area": 1200,
+      "addressRaw": "6694 Sabado Tarde Rd #C, Goleta, CA 93117",
+      "address": {
+        "street": "6694 Sabado Tarde Rd #C",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.41066,
+      "longitude": -119.86221,
+      "beds": 4,
+      "baths": 2,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "34.413967--119.858345",
+      "url": "https://www.zillow.com/b/850-camino-pescadero-goleta-ca-9N8JTN/",
+      "image": "https://photos.zillowstatic.com/fp/2e3b09f544b5033bc31c6459d0aa3025-p_e.jpg",
+      "status": "FOR_RENT",
+      "addressRaw": "850 Camino Pescadero, Goleta, CA",
+      "address": {
+        "street": "850 Camino Pescadero # 105",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.413967,
+      "longitude": -119.858345,
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "15913254",
+      "url": "https://www.zillow.com/homedetails/6618-Pasado-Rd-Goleta-CA-93117/15913254_zpid/",
+      "homeType": "APARTMENT",
+      "image": "https://photos.zillowstatic.com/fp/e8aeab3115d2712ffe621a4fe10a9b37-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 6000,
+      "rentZestimate": 5948,
+      "daysOnZillow": 9,
+      "area": 1000,
+      "addressRaw": "6618 Pasado Rd, Goleta, CA 93117",
+      "address": {
+        "street": "6618 Pasado Rd",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.411842,
+      "longitude": -119.859344,
+      "beds": 3,
+      "baths": 1,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "2096336953",
+      "url": "https://www.zillow.com/homedetails/6565-Del-Playa-Dr-B-Goleta-CA-93117/2096336953_zpid/",
+      "homeType": "APARTMENT",
+      "image": "https://photos.zillowstatic.com/fp/1d08a2cefdda9f8f3499270aab49a44a-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 3000,
+      "rentZestimate": 2629,
+      "daysOnZillow": 13,
+      "area": 400,
+      "addressRaw": "6565 Del Playa Dr #B, Goleta, CA 93117",
+      "address": {
+        "street": "6565 Del Playa Dr #B",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.409138,
+      "longitude": -119.85715,
+      "beds": 0,
+      "baths": 1,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "2085784131",
+      "url": "https://www.zillow.com/homedetails/6582-Sabado-Tarde-Rd-APT-2-Goleta-CA-93117/2085784131_zpid/",
+      "homeType": "APARTMENT",
+      "image": "https://photos.zillowstatic.com/fp/d92bc52cec44812b1ba4bfb2e90450bf-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 3100,
+      "rentZestimate": 1270,
+      "daysOnZillow": 14,
+      "addressRaw": "6582 Sabado Tarde Rd APT 2, Goleta, CA 93117",
+      "address": {
+        "street": "6582 Sabado Tarde Rd APT 2",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.410637,
+      "longitude": -119.858185,
+      "beds": 1,
+      "baths": 1,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "459859064",
+      "url": "https://www.zillow.com/homedetails/6504-Seville-Rd-3-Goleta-CA-93117/459859064_zpid/",
+      "homeType": "APARTMENT",
+      "image": "https://photos.zillowstatic.com/fp/8fafd21d99085de19972a43673f5bf2b-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 2500,
+      "rentZestimate": 2661,
+      "daysOnZillow": 15,
+      "area": 500,
+      "addressRaw": "6504 Seville Rd #3, Goleta, CA 93117",
+      "address": {
+        "street": "6504 Seville Rd #3",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.411983,
+      "longitude": -119.853836,
+      "beds": 1,
+      "baths": 1,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "15913327",
+      "url": "https://www.zillow.com/homedetails/954-Camino-Majorca-Goleta-CA-93117/15913327_zpid/",
+      "homeType": "SINGLE_FAMILY",
+      "image": "https://photos.zillowstatic.com/fp/31f4c9f6c965414d207d48091e184095-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 8800,
+      "zestimate": 1715100,
+      "rentZestimate": 7112,
+      "daysOnZillow": 20,
+      "area": 1637,
+      "addressRaw": "954 Camino Majorca, Goleta, CA 93117",
+      "address": {
+        "street": "954 Camino Majorca",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.41168,
+      "longitude": -119.869316,
+      "beds": 4,
+      "baths": 3,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "15913133",
+      "url": "https://www.zillow.com/homedetails/6555-Segovia-Rd-Goleta-CA-93117/15913133_zpid/",
+      "homeType": "SINGLE_FAMILY",
+      "image": "https://photos.zillowstatic.com/fp/a9ccee3d3e65ee0dc0e70853b5b1b989-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 17500,
+      "zestimate": 2746100,
+      "rentZestimate": 7274,
+      "daysOnZillow": 20,
+      "area": 2064,
+      "addressRaw": "6555 Segovia Rd, Goleta, CA 93117",
+      "address": {
+        "street": "6555 Segovia Rd",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.41424,
+      "longitude": -119.85656,
+      "beds": 7,
+      "baths": 4,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "2067551123",
+      "url": "https://www.zillow.com/homedetails/6793-Pasado-Rd-Goleta-CA-93117/2067551123_zpid/",
+      "homeType": "SINGLE_FAMILY",
+      "image": "https://photos.zillowstatic.com/fp/656210b4d4022efda1e2c322961f72d9-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 8490,
+      "zestimate": 1307600,
+      "rentZestimate": 5874,
+      "daysOnZillow": 20,
+      "area": 972,
+      "addressRaw": "6793 Pasado Rd, Goleta, CA 93117",
+      "address": {
+        "street": "6793 Pasado Rd",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.411762,
+      "longitude": -119.86619,
+      "beds": 3,
+      "baths": 2,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "89471651",
+      "url": "https://www.zillow.com/homedetails/6617-Pasado-Rd-Goleta-CA-93117/89471651_zpid/",
+      "homeType": "SINGLE_FAMILY",
+      "image": "https://photos.zillowstatic.com/fp/a6d05abb9e2f8deb83787a937a22cb7a-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 11500,
+      "zestimate": 1858500,
+      "rentZestimate": 6279,
+      "daysOnZillow": 22,
+      "area": 1100,
+      "addressRaw": "6617 Pasado Rd, Goleta, CA 93117",
+      "address": {
+        "street": "6617 Pasado Rd",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.41141,
+      "longitude": -119.85952,
+      "beds": 3,
+      "baths": 4,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "34.409855--119.857605",
+      "url": "https://www.zillow.com/b/6570-del-playa-dr-goleta-ca-9N8HCy/",
+      "image": "https://photos.zillowstatic.com/fp/a0342871400375c8abe18bd10f7135ef-p_e.jpg",
+      "status": "FOR_RENT",
+      "addressRaw": "6570 Del Playa Dr, Goleta, CA",
+      "address": {
+        "street": "6570 Del Playa Dr # 4",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.409855,
+      "longitude": -119.857605,
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "446181611",
+      "url": "https://www.zillow.com/apartments/goleta-ca/6587-cordoba/5Z6Yxw/",
+      "homeType": "APARTMENT",
+      "image": "https://photos.zillowstatic.com/fp/f3244c882c307806c2f6eaa6ae8fef06-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 3145,
+      "rentZestimate": 2407,
+      "daysOnZillow": 27,
+      "area": 475,
+      "addressRaw": "6587 Cordoba, 6587 Cordoba Rd #5, Goleta, CA 93117",
+      "address": {
+        "street": "6587 Cordoba Rd #5",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.41358,
+      "longitude": -119.857864,
+      "beds": 1,
+      "baths": 1,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "34.413605--119.85909",
+      "url": "https://www.zillow.com/apartments/isla-vista-ca/la-loma/5ZHWGS/",
+      "image": "https://photos.zillowstatic.com/fp/c513e6232b471a5745e6f5bc05fa20e5-p_e.jpg",
+      "status": "FOR_RENT",
+      "addressRaw": "851 Camino Pescadero, Goleta, CA",
+      "address": {
+        "street": "851 Camino Pescadero # 191f9ee34",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.413605,
+      "longitude": -119.85909,
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "15913498",
+      "url": "https://www.zillow.com/homedetails/6838-Del-Playa-Dr-Goleta-CA-93117/15913498_zpid/",
+      "homeType": "SINGLE_FAMILY",
+      "image": "https://photos.zillowstatic.com/fp/bc4bc150942e0625aa8d115192380d41-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 15295,
+      "zestimate": 2319900,
+      "rentZestimate": 7402,
+      "daysOnZillow": 34,
+      "area": 1400,
+      "addressRaw": "6838 Del Playa Dr, Goleta, CA 93117",
+      "address": {
+        "street": "6838 Del Playa Dr",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.409992,
+      "longitude": -119.86752,
+      "beds": 6,
+      "baths": 2,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "34.40941--119.86097",
+      "url": "https://www.zillow.com/apartments/goleta-ca/6653-del-playa/9N8HHf/",
+      "image": "https://photos.zillowstatic.com/fp/8a6aa4a0f3379b0ce6fe1049a76a7667-p_e.jpg",
+      "status": "FOR_RENT",
+      "addressRaw": "6653 Del Playa Dr, Goleta, CA",
+      "address": {
+        "street": "6653 Del Playa Dr # 5",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.40941,
+      "longitude": -119.86097,
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "83120190",
+      "url": "https://www.zillow.com/homedetails/6631-Del-Playa-Dr-Goleta-CA-93117/83120190_zpid/",
+      "homeType": "APARTMENT",
+      "image": "https://photos.zillowstatic.com/fp/d6f9ddb20a6872cd8b2645b287218e18-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "rentZestimate": 7990,
+      "daysOnZillow": 49,
+      "area": 2718,
+      "addressRaw": "6631 Del Playa Dr, Goleta, CA 93117",
+      "address": {
+        "street": "6631 Del Playa Dr",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.409355,
+      "longitude": -119.859856,
+      "beds": 4,
+      "baths": 3,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "34.411602--119.85417",
+      "url": "https://www.zillow.com/apartments/isla-vista-ca/6509-seville-road-2/5j34ms/",
+      "image": "https://photos.zillowstatic.com/fp/e7c552551941645788017bc0001e15a7-p_e.jpg",
+      "status": "FOR_RENT",
+      "addressRaw": "6509 Seville Rd, Isla Vista, CA",
+      "address": {
+        "street": "6509 Seville Rd Apt 5",
+        "city": "Isla Vista",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.411602,
+      "longitude": -119.85417,
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "34.41463--119.85752",
+      "url": "https://www.zillow.com/apartments/isla-vista-ca/833-embarcadero-del-mar/5fyZSS/",
+      "image": "https://photos.zillowstatic.com/fp/77e67137094232fdf2c616f2bcc931e3-p_e.jpg",
+      "status": "FOR_RENT",
+      "addressRaw": "833 Embarcadero Del Mar, Isla Vista, CA",
+      "address": {
+        "street": "833 Embarcadero Del Mar Apt 32",
+        "city": "Isla Vista",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.41463,
+      "longitude": -119.85752,
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "443425559",
+      "url": "https://www.zillow.com/homedetails/6796-Del-Playa-Dr-Goleta-CA-93117/443425559_zpid/",
+      "homeType": "SINGLE_FAMILY",
+      "image": "https://photos.zillowstatic.com/fp/3a368e8c34a09657c739973a85104042-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 4950,
+      "zestimate": 1402600,
+      "rentZestimate": 4561,
+      "daysOnZillow": 57,
+      "addressRaw": "6796 Del Playa Dr, Goleta, CA 93117",
+      "address": {
+        "street": "6796 Del Playa Dr",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.409817,
+      "longitude": -119.866356,
+      "beds": 2,
+      "baths": 1,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "34.416748--119.864204",
+      "url": "https://www.zillow.com/apartments/goleta-ca/the-tahitian-apartments/ChRYdP/",
+      "image": "https://photos.zillowstatic.com/fp/378a097920709fcd4521971675b645c1-p_e.jpg",
+      "status": "FOR_RENT",
+      "addressRaw": "6739 El Colegio Rd, Goleta, CA",
+      "address": {
+        "street": "6739 El Colegio Rd # 4B-2Ba-1473Sqft",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.416748,
+      "longitude": -119.864204,
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "15913605",
+      "url": "https://www.zillow.com/homedetails/6649-Del-Playa-Dr-Goleta-CA-93117/15913605_zpid/",
+      "homeType": "APARTMENT",
+      "image": "https://photos.zillowstatic.com/fp/bb526ea0d24cc8425e3bf697730fcac3-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 19000,
+      "rentZestimate": 6345,
+      "daysOnZillow": 63,
+      "addressRaw": "6649 Del Playa Dr, Goleta, CA 93117",
+      "address": {
+        "street": "6649 Del Playa Dr",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.409397,
+      "longitude": -119.86076,
+      "beds": 6,
+      "baths": 3,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "2108887306",
+      "url": "https://www.zillow.com/homedetails/6774-Sueno-Rd-Goleta-CA-93117/2108887306_zpid/",
+      "homeType": "SINGLE_FAMILY",
+      "image": "https://photos.zillowstatic.com/fp/2e8744480ac60ad23a1bf0b4352cf7d1-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 13250,
+      "priceChange": -250,
+      "priceChangedAt": 1770105600000,
+      "priceChangedAtIso": "2026-02-03T08:00:00.000Z",
+      "zestimate": 1593300,
+      "rentZestimate": 6279,
+      "daysOnZillow": 77,
+      "addressRaw": "6774 Sueno Rd, Goleta, CA 93117",
+      "address": {
+        "street": "6774 Sueno Rd",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.412704,
+      "longitude": -119.86546,
+      "beds": 5,
+      "baths": 3,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "34.409332--119.865036",
+      "url": "https://www.zillow.com/apartments/goleta-ca/sb-6761-rooms-for-rent/Cn8H8n/",
+      "image": "https://photos.zillowstatic.com/fp/adadf5800c7cf27622d3da09eea0c0c1-p_e.jpg",
+      "status": "FOR_RENT",
+      "addressRaw": "6761 Del Playa Dr, Goleta, CA",
+      "address": {
+        "street": "6761 Del Playa Dr # 102-5",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.409332,
+      "longitude": -119.865036,
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "34.41622--119.85785",
+      "url": "https://www.zillow.com/apartments/goleta-ca/6587-cervantes/5j34bM/",
+      "image": "https://photos.zillowstatic.com/fp/c6d97460b805cf16774eabe02b936f61-p_e.jpg",
+      "status": "FOR_RENT",
+      "addressRaw": "6587 Cervantes Rd, Goleta, CA",
+      "address": {
+        "street": "6587 Cervantes Rd # 10",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.41622,
+      "longitude": -119.85785,
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "34.4102--119.85711",
+      "url": "https://www.zillow.com/apartments/goleta-ca/6565-sabado-tarde/5gq8Gw/",
+      "image": "https://photos.zillowstatic.com/fp/f7ef1dfff46b20aae4e94d1b6f6e403b-p_e.jpg",
+      "status": "FOR_RENT",
+      "addressRaw": "6565 Sabado Tarde Rd, Goleta, CA",
+      "address": {
+        "street": "6565 Sabado Tarde Rd Apt 16",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.4102,
+      "longitude": -119.85711,
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "2060566804",
+      "url": "https://www.zillow.com/apartments/goleta-ca/6597-sabado-tarde/5XtR3s/",
+      "homeType": "APARTMENT",
+      "image": "https://photos.zillowstatic.com/fp/cc4cc18eb7ef691c18eeedaa98e56ddc-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 2614,
+      "rentZestimate": 2812,
+      "daysOnZillow": 92,
+      "area": 600,
+      "addressRaw": "6597 Sabado Tarde, 6597 Sabado Tarde Rd #3, Goleta, CA 93117",
+      "address": {
+        "street": "6597 Sabado Tarde Rd #3",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.41024,
+      "longitude": -119.85835,
+      "beds": 1,
+      "baths": 1,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "457916852",
+      "url": "https://www.zillow.com/apartments/goleta-ca/6519-seville/5XtPLX/",
+      "homeType": "APARTMENT",
+      "image": "https://photos.zillowstatic.com/fp/cee34d3bfc4e1fe4eb1ae17df5760fe8-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 2739,
+      "rentZestimate": 2793,
+      "daysOnZillow": 92,
+      "area": 600,
+      "addressRaw": "6519 Seville, 6519 Seville Rd APT 7, Goleta, CA 93117",
+      "address": {
+        "street": "6519 Seville Rd APT 7",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.411602,
+      "longitude": -119.8545,
+      "beds": 1,
+      "baths": 1,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    },
+    {
+      "id": "2060567250",
+      "url": "https://www.zillow.com/apartments/goleta-ca/6503-seville-road/5XtPLx/",
+      "homeType": "APARTMENT",
+      "image": "https://photos.zillowstatic.com/fp/e92a9038201019a69c04187c649ba29d-p_e.jpg",
+      "status": "FOR_RENT",
+      "currency": "$",
+      "price": 2739,
+      "rentZestimate": 2793,
+      "daysOnZillow": 92,
+      "area": 600,
+      "addressRaw": "6503 Seville Road, 6503 Seville Rd #4, Goleta, CA 93117",
+      "address": {
+        "street": "6503 Seville Rd #4",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.411602,
+      "longitude": -119.853836,
+      "beds": 1,
+      "baths": 1,
+      "listingDetails": {},
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+
+    },
+    {
+      "id": "34.411613--119.85819",
+      "url": "https://www.zillow.com/apartments/goleta-ca/6591-seville/5XtQJ6/",
+      "image": "https://photos.zillowstatic.com/fp/b54624ebaa7a195d7a922126ef1526e2-p_e.jpg",
+      "status": "FOR_RENT",
+      "addressRaw": "6591 Seville Rd, Goleta, CA",
+      "address": {
+        "street": "6591 Seville Rd Apt 16",
+        "city": "Goleta",
+        "state": "CA",
+        "zipcode": "93117"
+      },
+      "latitude": 34.411613,
+      "longitude": -119.85819,
+      "mediaDetails": {
+        "has3DModel": false,
+        "hasVideo": false
+      },
+    }
+  ],
+  "pagination": {
+    "currentPage": 1,
+    "nextPage": "https://www.zillow.com/isla-vista-ca/rentals/2_p?%7B%22pagination%22%3A%7B%22currentPage%22%3A2%7D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22sort%22%3A%7B%22value%22%3A%22days%22%7D%2C%22fr%22%3A%7B%22value%22%3Atrue%7D%2C%22fsba%22%3A%7B%22value%22%3Afalse%7D%2C%22fsbo%22%3A%7B%22value%22%3Afalse%7D%2C%22nc%22%3A%7B%22value%22%3Afalse%7D%2C%22cmsn%22%3A%7B%22value%22%3Afalse%7D%2C%22auc%22%3A%7B%22value%22%3Afalse%7D%2C%22fore%22%3A%7B%22value%22%3Afalse%7D%7D%2C%22isListVisible%22%3Atrue%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A15381%7D%5D%2C%22usersSearchTerm%22%3A%22Isla%20Vista%2C%20CA%22%7D",
+    "otherPages": {
+      "2": "https://www.zillow.com/isla-vista-ca/rentals/2_p?%7B%22pagination%22%3A%7B%22currentPage%22%3A2%7D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22sort%22%3A%7B%22value%22%3A%22days%22%7D%2C%22fr%22%3A%7B%22value%22%3Atrue%7D%2C%22fsba%22%3A%7B%22value%22%3Afalse%7D%2C%22fsbo%22%3A%7B%22value%22%3Afalse%7D%2C%22nc%22%3A%7B%22value%22%3Afalse%7D%2C%22cmsn%22%3A%7B%22value%22%3Afalse%7D%2C%22auc%22%3A%7B%22value%22%3Afalse%7D%2C%22fore%22%3A%7B%22value%22%3Afalse%7D%7D%2C%22isListVisible%22%3Atrue%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A15381%7D%5D%2C%22usersSearchTerm%22%3A%22Isla%20Vista%2C%20CA%22%7D"
+    }
+  }
+}
