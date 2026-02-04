@@ -1,0 +1,17 @@
+latitude,longitude,address,city,state,zipcode,price,beds,baths,homeType,url
+34.41017,-119.856445,"1015 El Embarcadero Rd APT 4",Goleta,CA,93117,3500,1,1,APARTMENT,https://www.zillow.com/homedetails/1015-El-Embarcadero-Rd-APT-4-Goleta-CA-93117/2099646767_zpid/
+34.412964,-119.85839,"910 Camino Pescadero Apt 33",Isla Vista,CA,93117,,,0,0,APARTMENT,https://www.zillow.com/apartments/isla-vista-ca/skyview-apartments/CkYTp7/
+34.412376,-119.86181,"6677 Sueno Rd #A",Goleta,CA,93117,5375,3,2,APARTMENT,https://www.zillow.com/homedetails/6677-Sueno-Rd-A-Goleta-CA-93117/2121714408_zpid/
+34.41556,-119.85584,"781 Embarcadero Del Norte #7",Goleta,CA,93117,2895,1,1,APARTMENT,https://www.zillow.com/homedetails/781-Embarcadero-Del-Norte-7-Goleta-CA-93117/455118809_zpid/
+34.414486,-119.86513,"6763 Abrego Rd Apt 8",Goleta,CA,93117,,,0,0,APARTMENT,https://www.zillow.com/apartments/isla-vista-ca/quiet-isla-vista-apartment-complex/5XtNhX/
+34.411198,-119.862495,"6696 Trigo Rd",Goleta,CA,93117,4175,2,2,SINGLE_FAMILY,https://www.zillow.com/homedetails/6696-Trigo-Rd-Goleta-CA-93117/2080126053_zpid/
+34.411415,-119.86225,"6695 Pasado Rd",Goleta,CA,93117,3600,2,2,APARTMENT,https://www.zillow.com/homedetails/6695-Pasado-Rd-Goleta-CA-93117/15913405_zpid/
+34.412872,-119.86664,"888 Fortuna Ln",Goleta,CA,93117,7050,5,2,SINGLE_FAMILY,https://www.zillow.com/homedetails/888-Fortuna-Ln-Goleta-CA-93117/15913163_zpid/
+34.410217,-119.8557,"6541 Sabado Tarde Rd",Goleta,CA,93117,7200,3,2,SINGLE_FAMILY,https://www.zillow.com/homedetails/6541-Sabado-Tarde-Rd-Goleta-CA-93117/15913659_zpid/
+34.410282,-119.86706,"6823 Sabado Tarde Rd",Goleta,CA,93117,6800,3,2,SINGLE_FAMILY,https://www.zillow.com/homedetails/6823-Sabado-Tarde-Rd-Goleta-CA-93117/15913494_zpid/
+34.413296,-119.86072,"6647 Abrego Rd # C",Goleta,CA,93117,,,0,0,APARTMENT,https://www.zillow.com/b/6647-abrego-rd-goleta-ca-5XqphW/
+34.412167,-119.858986,"935 Camino Pescadero",Goleta,CA,93117,7000,3,2,SINGLE_FAMILY,https://www.zillow.com/homedetails/935-Camino-Pescadero-Goleta-CA-93117/15913251_zpid/
+34.41066,-119.86221,"6694 Sabado Tarde Rd #C",Goleta,CA,93117,12000,4,2,APARTMENT,https://www.zillow.com/homedetails/6694-Sabado-Tarde-Rd-C-Goleta-CA-93117/457661133_zpid/
+34.413967,-119.858345,"850 Camino Pescadero # 105",Goleta,CA,93117,,,0,0,APARTMENT,https://www.zillow.com/b/850-camino-pescadero-goleta-ca-9N8JTN/
+34.411842,-119.859344,"6618 Pasado Rd",Goleta,CA,93117,6000,3,1,APARTMENT,https://www.zillow.com/homedetails/6618-Pasado-Rd-Goleta-CA-93117/15913254_zpid/
+34.409138,-119.85715,"6565 Del Playa Dr #B",Goleta,CA,93117,3000,0,1,APARTMENT,https://www.zillow.com/homedetails/6565-Del-Playa-Dr-B-Goleta-CA-93117/2096336953_zpid/
