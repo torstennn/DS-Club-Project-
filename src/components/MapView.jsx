@@ -8,7 +8,7 @@ function MapView() {
 
   useEffect(() => {
     // Load the CSV file from the public folder
-    Papa.parse('/isla-vista-rentals.csv', {
+    Papa.parse('isla-vista-rentals.csv', {
       download: true,
       header: true, // Use the first row as keys (Price, Latitude, etc.)
       complete: (results) => {
